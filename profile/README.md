@@ -14,6 +14,16 @@
 
 ---
 
+## Repository
+
+| Repository                | Link                                            | 
+| ------------------------- | ----------------------------------------------- | 
+| Inference Next            | https://github.com/LAI25-SS021/inference-next   | 
+| Inference API             | https://github.com/LAI25-SS021/inference-api    | 
+| Machine Learning          | https://github.com/LAI25-SS021/machine-learning | 
+
+---
+
 ## 📌 Ringkasan Proyek
 
 RupaKoe adalah sistem berbasis kecerdasan buatan yang mampu mendeteksi jenis kulit wajah dari gambar digital menggunakan model deep learning. Sistem ini bertujuan membantu masyarakat, khususnya wanita, untuk mengenali jenis kulit wajah mereka (berminyak, normal, atau kering) sehingga dapat memilih produk perawatan kulit dengan lebih tepat dan hemat.
