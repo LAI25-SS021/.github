@@ -22,6 +22,8 @@
 | Inference API             | https://github.com/LAI25-SS021/inference-api    | 
 | Machine Learning          | https://github.com/LAI25-SS021/machine-learning | 
 
+Link Website : https://inference-next.vercel.app
+
 ---
 
 ## 📌 Ringkasan Proyek
